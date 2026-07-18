@@ -1,0 +1,6 @@
+# **Bagaimana model RaaS berbeda dari ransomeware konvensional dalam hal pembagian peran dan revenue?**
+
+
+Evolusi _Ransomware as a Service_ (RaaS) telah mengubah lanskap kejahatan siber secara mendasar dengan mengadopsi model kejahatan terstruktur yang secara langsung meniru ekosistem _Software as a Service_ (SaaS) komersial yang sah. Berbeda dengan operasi ransomware konvensional yang sering kali berpusat pada satu peretas dengan kemampuan teknis penuh, RaaS mendistribusikan peran dengan menyediakan fasilitas seperti dasbor manajemen operasional, layanan dukungan teknis 24/7, serta skema bagi hasil (_revenue sharing_) yang jelas. ([[Masakapalli & Vodapally 2025 - RaaS Emerging Threats]])
+
+Dampak utama dari model bisnis ini adalah penurunan batasan keahlian (_barrier to entry_) secara drastis bagi pelaku kejahatan siber. RaaS memungkinkan individu atau afiliasi yang sama sekali tidak memiliki keahlian teknis tingkat tinggi untuk tetap dapat meluncurkan serangan ransomware berskala besar terhadap infrastruktur korporat. Korporatisasi kejahatan ini bahkan mencapai tingkat di mana grup RaaS seperti Conti beroperasi layaknya sebuah kartel bisnis modern, lengkap dengan tim dukungan internal (_internal support team_) khusus untuk melayani operasi mereka. ([[Masakapalli & Vodapally 2025 - RaaS Emerging Threats]])

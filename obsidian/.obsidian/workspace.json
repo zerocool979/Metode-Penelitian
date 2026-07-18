@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "4a5fe3148fa7d899",
+    "type": "split",
+    "children": [
+      {
+        "id": "8127ffeeab807db2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca0f79c4f254f1c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Milenkoski et al. 2025 - Ransomwares New Masters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Milenkoski et al. 2025 - Ransomwares New Masters"
+            }
+          },
+          {
+            "id": "180d4720b2888cec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fachkha et al. 2025 - RaaS and Its Evolution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fachkha et al. 2025 - RaaS and Its Evolution"
+            }
+          },
+          {
+            "id": "a8f8c7e0f88193f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dhawan et al. 2025 - Splitting the Spoils.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dhawan et al. 2025 - Splitting the Spoils"
+            }
+          },
+          {
+            "id": "c85db155284df2b2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Tampilan grafik"
+            }
+          },
+          {
+            "id": "0d20b7a5e62a0d51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Krisha Bhattarai 2025 - Dissecting LockBit Ransomware.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Krisha Bhattarai 2025 - Dissecting LockBit Ransomware"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fb632e356dba1e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a273c3635e24d3a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "174e7a7df00be664",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Penjelajah berkas"
+            }
+          },
+          {
+            "id": "b4fa3adfc10e21c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Penelusuran"
+            }
+          },
+          {
+            "id": "2eb0435fdbcd6a67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Penanda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e47ee4d7bc69426c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ef6ebd86c7781be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a9c360f958f5618",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fachkha et al. 2025 - RaaS and Its Evolution.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlink pada Fachkha et al. 2025 - RaaS and Its Evolution"
+            }
+          },
+          {
+            "id": "b6e6965a78aab01b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Masakapalli & Vodapally (2025).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Tautan keluar dari Masakapalli & Vodapally (2025)"
+            }
+          },
+          {
+            "id": "ea4e725b39c70b49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tag"
+            }
+          },
+          {
+            "id": "66b94c82bb2a52f4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Semua properti"
+            }
+          },
+          {
+            "id": "645c48918dcf48e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fachkha et al. 2025 - RaaS and Its Evolution.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Kerangka dari Fachkha et al. 2025 - RaaS and Its Evolution"
+            }
+          },
+          {
+            "id": "a8c8d101e9274294",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Fachkha et al. 2025 - RaaS and Its Evolution.md"
+              },
+              "icon": "lucide-info",
+              "title": "Properti berkas untuk Fachkha et al. 2025 - RaaS and Its Evolution"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Buka peralih cepat": false,
+      "graph:Buka tampilan grafik": false,
+      "canvas:Buat kanvas baru": false,
+      "daily-notes:Buka catatan hari ini": false,
+      "templates:Masukkan template": false,
+      "command-palette:Buka palet perintah": false,
+      "bases:Buat basis baru": false
+    }
+  },
+  "active": "0d20b7a5e62a0d51",
+  "lastOpenFiles": [
+    "Ferdous et al. 2024 - AI-Based Ransomware Detection.md",
+    "Fachkha et al. 2025 - RaaS and Its Evolution.md",
+    "Masakapalli & Vodapally 2025 - RaaS Emerging Threats.md",
+    "Qollakaj et al. 2023 - Cybersecurity of remote work migration.md",
+    "MOC RQ3 - Vetting & Aktor Negara.md",
+    "MOC RQ2 - Interaksi Ekosistem.md",
+    "MOC RQ1 - Model Bisnis RaaS.md",
+    "Dhawan et al. 2025 - Splitting the Spoils.md",
+    "Iwasaki & Masaki 2025 - Banning ransomware payments.md",
+    "Laszka et al. 2017 - On the Economics of Ransomware.md",
+    "Gray et al. 2023 - Money Over Morals.md",
+    "Milenkoski et al. 2025 - Ransomwares New Masters.md",
+    "2026-05-28.md",
+    "Krisha Bhattarai 2025 - Dissecting LockBit Ransomware.md",
+    "Z-Z DETAIL RESEARCH.md",
+    "Z-Z Broken VECT 2.0 ransomeware acts as a data wiper for large files.md",
+    "Z-Z MINDSET.md",
+    "Z-Z Paper Review Template.md",
+    "Z-Z Latvian Cybercriminal Jailed for Role in Multi-Million Dollar Ransomware Scheme.md",
+    "RaaS Ecosystem Model.md",
+    "LockBit Ransomware Analysis.md",
+    "Fachkha et al. (2021) 1.md",
+    "Fachkha et al. (2021).md.md",
+    "Masakapalli & Vodapally (2025).md",
+    "Data/Pasport Ahmad Zaeni Mansur Said.md",
+    "Data/Ahmad Zaeni Mansur Said.md.md",
+    "Tanpa judul.base",
+    "Tanpa judul 1.base",
+    "Data",
+    "Tanpa judul.canvas",
+    "Zettelkasten/Raas",
+    "Zettelkasten"
+  ]
+}
